@@ -1,0 +1,1 @@
+A template tag that makes it easy to add gravatar support to your Django application.
